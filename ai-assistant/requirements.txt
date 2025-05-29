@@ -1,1 +1,13 @@
 # requirements.txt placeholder
+sentence-transformers
+qdrant-client
+psycopg2-binary
+sqlalchemy
+neo4j
+python-dotenv
+textblob
+transformers
+keybert
+scikit-learn
+
+# GOTO ../requirements.txt
